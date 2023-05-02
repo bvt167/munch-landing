@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Munch Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Landing page for the Munch App.
+
+## Links
+
+* Hosted web app: https://victorious-dune-0e5eed11e.2.azurestaticapps.net/
+* Hosted backend: https://munch.azurewebsites.net/
+* Backend repository: https://github.com/bvt167/munch-back-end
 
 ## Available Scripts
 
@@ -13,6 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm run deploy`
+
+Builds app and deploys to Github pages.
 
 ### `npm test`
 
