@@ -6,7 +6,7 @@ function App() {
   const BASE_URL = window.location.origin + "/munch-landing";
 
   return (
-    <div className="App">
+    <div className="App container-fluid mt-5">
       <div className="container d-flex flex-column align-items-center">
             <div>
               <h1 style={{textAlign: "center"}}>Welcome to</h1>
@@ -68,30 +68,32 @@ function App() {
                 <p>
                     Munch was founded by a team of undergraduate students at the University of Washington’s iSchool. 
                     Over the course of 20 weeks, we researched, designed, and developed our the Munch 
-                    web app alongside restaurant owners and managers in the University District.
+                    web app alongside restaurant owners and managers in the University District. Our app will be going <strong>open-source</strong> at the end of the Spring 2023 quarter on 6/1/2023.
                 </p>
             </div>
         </div>
 
-        <div className="container flex-column align-items-center ">
-            <div className="row" style={{marginTop: "100px", textAlign:"center"}}>
-                <div className="column">
+        <div className="container flex-row w-auto">
+            <div className="row">
+                <div className="col">
                     <img src={BASE_URL + "/assets/team2.png"} alt="team 2"></img>
                 </div>
-                <div className="column">
+                <div className="col">
                     <img src={BASE_URL + "/assets/team1.png"} alt="team 1"></img>
                 </div>
-                <div className="column">
+                <div className="col">
                     <img src={BASE_URL + "/assets/team3.png"} alt="team 3"></img>
                 </div>
             </div>
-            <div className="row" style={{marginTop: "100px", textAlign: "center"}}>
-                <div className="column">
+            <div className="row">
+                <div className="col" />
+                <div className="col">
                     <img src={BASE_URL + "/assets/team4.png"} alt="team 4"></img>
                 </div>
-                <div className="column">
+                <div className="col">
                     <img src={BASE_URL + "/assets/team5.png"} alt="team 5"></img>
                 </div>
+                <div className="col" />
             </div>
         </div>
 
