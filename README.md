@@ -9,6 +9,7 @@ Repository for the landing page for the Munch App. Landing page hosted on Github
 * Hosted backend: https://munch.azurewebsites.net/
 * Backend repository: https://github.com/bvt167/munch-back-end
 * Frontend repository: https://github.com/bvt167/munch
+* Final presentation: https://docs.google.com/presentation/d/1-EqW145BVskgbnMoF0iMW0xGzqYMrucp8-4sMCL25og/edit#slide=id.p
 
 ## Available Scripts
 
