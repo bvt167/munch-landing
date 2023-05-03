@@ -1,12 +1,14 @@
 # Munch Landing Page
 
-Landing page for the Munch App.
+Repository for the landing page for the Munch App. Landing page hosted on Github pages can be found [here](https://bvt167.github.io/munch-landing)
 
 ## Links
 
+* Hosted landing page on Github Pages: https://bvt167.github.io/munch-landing
 * Hosted web app: https://victorious-dune-0e5eed11e.2.azurestaticapps.net/
 * Hosted backend: https://munch.azurewebsites.net/
 * Backend repository: https://github.com/bvt167/munch-back-end
+* Frontend repository: https://github.com/bvt167/munch
 
 ## Available Scripts
 
